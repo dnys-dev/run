@@ -1,5 +1,32 @@
 # Script Ubuntu Start Dev
 
+![Logo DNYS DEV](https://run.dnys.dev/img/logo.svg)
+
+---
+# 🔗 Menu
+- [Demo](#_Demo_14)
+- [Git, Vscode, Chrome](#__Git_vscode_chrome_20)
+
+# 📬 feedback
+Achou um erro quer reportar para nós ou deixar o seu feedback?
+
+![e-mail](https://img.shields.io/badge/Email-daviny@vidal.dev.br-orange)
+
+# 🧵 Script Shell para instalação de programas
+Segue a lista de script shell Ubuntu
+## 💾 Demo
+Script de demo com apenas texto de ajuda
 ```bash
-curl http://run.dnys.dev/demo | bash
+curl https://run.dnys.dev/run.txt | bash
 ```
+
+## 🔌  Git, vscode, chrome, 
+Script Básico para dev.
+```bash
+curl https://run.dnys.dev/git-vscode-chrome.txt | bash
+```
+
+# 🎓 Créditos
+ Daviny Vidal
+ 
+-->
