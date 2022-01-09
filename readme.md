@@ -3,9 +3,6 @@
 
 web site: [run.dnys.dev](https://run.dnys.dev/)
 ---
-# 🔗 Menu
-- [Demo](#Demo)
-- [Git, Vscode, Chrome](#Git_vscode_chrome)
 
 # 📬 feedback
 Achou um erro quer reportar para nós ou deixar o seu feedback?
@@ -14,13 +11,13 @@ Achou um erro quer reportar para nós ou deixar o seu feedback?
 
 # 🧵 Script Shell para instalação de programas
 Segue a lista de script shell Ubuntu
-## 💾 Demo
+### 💾 Demo
 Script de demo com apenas texto de ajuda
 ```bash
 curl https://run.dnys.dev/run.txt | bash
 ```
 
-## 🔌  Git, vscode, chrome, 
+### 🔌  Git, vscode, chrome, 
 Script Básico para dev.
 ```bash
 curl https://run.dnys.dev/git-vscode-chrome.txt | bash
