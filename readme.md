@@ -1,11 +1,9 @@
-# Script Ubuntu Start Dev
-
 ![Logo DNYS DEV](https://run.dnys.dev/img/logo.svg)
 
 ---
 # 🔗 Menu
-- [Demo](#_Demo_14)
-- [Git, Vscode, Chrome](#__Git_vscode_chrome_20)
+- [Demo](#Demo)
+- [Git, Vscode, Chrome](#Git_vscode_chrome)
 
 # 📬 feedback
 Achou um erro quer reportar para nós ou deixar o seu feedback?
