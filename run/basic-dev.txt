@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo 'Script Dnys.dev RUN 1.2v'
+echo 'Script run.dnys.dev 1.2v'
 echo 'seja bem-vinda(o)'
 
 echo 'Vamos instlar Git, VsCode, Chorme and Insomnia'

@@ -1,7 +1,14 @@
 #!/bin/bash
 
-echo 'Script Dnys.dev RUN'
+echo 'Script run.dnys.dev 1.2v'
 echo 'seja bem-vinda(o)'
-
-echo 'qual instalação pretende fazer'
+echo ''
+echo 'Basic Dev'
+echo 'curl https://run.dnys.dev | bash'
+echo ''
+echo ''
+echo 'It’s finally'
+echo 'Acesse https://run.dnys.dev'
+echo ''
+echo ''
 
