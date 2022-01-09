@@ -11,15 +11,14 @@ sudo apt install -y wget
 
 sudo apt install -y git
 echo 'It’s finally time to install Git!'
-
+echo ''
 wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
 
 sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main"
 >> /etc/apt/sources.list.d/google.list'
-
 sudo apt update
-
 echo 'It’s finally time to install Google Chrome!'
+echo ''
 
 curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg && \
 sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg && \
@@ -28,5 +27,15 @@ sudo apt-get update && \
 sudo apt install code code-insiders
 
 echo 'It’s finally time to install Vscode!'
+echo ''
+# Add to sources
+echo "deb [trusted=yes arch=amd64] https://download.konghq.com/insomnia-ubuntu/ default all" \
+    | sudo tee -a /etc/apt/sources.list.d/insomnia.list
+
+# Refresh repository sources and install Insomnia
+sudo apt-get update
+sudo apt-get install insomnia
+
+echo ''
 echo ''
 echo 'It’s finally'
