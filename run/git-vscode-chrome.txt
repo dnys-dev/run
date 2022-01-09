@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo 'Script Dnys.dev RUN'
+echo 'seja bem-vinda(o)'
+
+echo 'Vamos instlar Git, VsCode, Chorme'
+
+sudo apt install -y Git
+
