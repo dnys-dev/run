@@ -5,7 +5,7 @@ echo 'seja bem-vinda(o)'
 
 echo 'Vamos instlar Git, VsCode, Chorme'
 
-verificando libs wget
+echo 'verificando libs wget'
 
 sudo apt install -y wget
 
