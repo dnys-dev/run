@@ -1,2 +1,2 @@
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.txt [NC]
-RewriteRule ^ %1 [R,NC]
+RewriteCond %{REQUEST_FILENAME}.txt -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.txt [QSA,L]
