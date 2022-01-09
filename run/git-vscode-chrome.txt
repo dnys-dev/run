@@ -5,5 +5,18 @@ echo 'seja bem-vinda(o)'
 
 echo 'Vamos instlar Git, VsCode, Chorme'
 
-sudo apt install -y git
+verificando libs wget
 
+sudo apt install -y wget
+
+sudo apt install -y git
+echo 'It’s finally time to install Git!'
+
+wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+
+sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main"
+>> /etc/apt/sources.list.d/google.list'
+
+sudo apt update
+
+echo 'It’s finally time to install Google Chrome!'
