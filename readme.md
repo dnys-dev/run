@@ -5,12 +5,11 @@ web site: [run.dnys.dev](https://run.dnys.dev/)
 ---
 
 # 📬 feedback
-Achou um erro quer reportar para nós ou deixar o seu feedback?
+Found an error, want to report it to us or leave your feedback?
 
 ![e-mail](https://img.shields.io/badge/Email-daviny@vidal.dev.br-orange)
 
-# 🧵 Script Shell para instalação de programas
-para ver todo readme, acesse `run.dnys.dev` e acompanha por lá.
-# 🎓 Créditos
+#    Script Shell for installing programs
+to see the entire readme, go to `run.dnys.dev` and follow along there.
+# 🎓 Credits
  Daviny Vidal
-
