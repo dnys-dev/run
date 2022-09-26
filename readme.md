@@ -1,4 +1,4 @@
-![Logo DNYS DEV](https://run.dnys.dev/assents/img/logo.svg)
+![Logo DNYS DEV](./assents/img/logo.svg)
 
 
 web site: [run.dnys.dev](https://run.dnys.dev/)
